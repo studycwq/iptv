@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1673464127" group-title="英雄联盟", 虎牙LPL
+#EXTINF:-1 tvg-logo="https://anchorpost.msstatic.com/cdnimage/anchorpost/1042/6f/3626ef611e990cbbcefab8e1bbc561_3_0_1681370456.jpg" group-title="英雄联盟", 虎牙LPL
 http://live.aptvapp.com/live/huya/660000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/0e/140cfd7cbaddc5db2c25a97e0aa83e_180_135.jpg?1610275378" group-title="英雄联盟", 虎牙LCK
 http://live.aptvapp.com/live/huya/660001
@@ -9,7 +9,7 @@ http://live.aptvapp.com/live/douyu/288016
 http://live.aptvapp.com/live/huya/333003
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/cb/9d859ba1a87431f0ec20f57f3ccfa4_180_135.jpg?1591180682&467049" group-title="英雄联盟", kRYST4L
 http://live.aptvapp.com/live/huya/222523
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1017/08/7b0012b378139f55b8c4675724653d_180_135.jpg?1625666609" group-title="英雄联盟", AmazingJ
+#EXTINF:-1 tvg-logo="https://anchorpost.msstatic.com/cdnimage/anchorpost/1017/08/7b0012b378139f55b8c4675724653d_0_1673765988.jpg" group-title="英雄联盟", AmazingJ
 http://live.aptvapp.com/live/huya/991108
 #EXTINF:-1 tvg-logo="https://anchorpost.msstatic.com/cdnimage/anchorpost/1073/fe/1a689ed11d9f778a6a1be6054052a9_2_0_1673766022.jpg" group-title="英雄联盟", Letme严君泽
 http://live.aptvapp.com/live/huya/518518
