@@ -11,7 +11,7 @@ http://192.168.68.2:8765/gdproxy.php?id=GHDdaoshi_7500
 http://192.168.68.2:8765/gdproxy.php?id=1350_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://192.168.68.2:8765/gdproxy.php?id=1351_4500
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://192.168.68.2:8765/gdproxy.php?id=fhzw_1500
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="卫视",星空卫视
 http://192.168.68.2:8765/gdproxy.php?id=xingkong_1500
@@ -249,6 +249,10 @@ http://192.168.68.2:8765/gdproxy.php?id=1938
 http://192.168.68.2:8765/gdproxy.php?id=1939
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="其他",岭南戏曲
 http://192.168.68.2:8765/gdproxy.php?id=1460
+#EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷动画.png" group-title="其他",卡酷动画
+http://192.168.68.2:8765/gdproxy.php?id=kakushaoer_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中国气象.png" group-title="其他",中国气象频道
+http://192.168.68.2:8765/gdproxy.php?id=zgqixiang_1500
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂一年级.png" group-title="其他",广州共享课堂一年级
 http://192.168.68.2:8765/gdproxy.php?id=2061_1500
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂二年级.png" group-title="其他",广州共享课堂二年级
