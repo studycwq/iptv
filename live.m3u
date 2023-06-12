@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1673464127&467057" group-title="英雄联盟;虎牙", LPL
-http://192.168.68.2:8765/huya.php?id=660000
+https://live.littlestrong.eu.org/live/huya/660000
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/544c89e68f2b1f12ffcbb8b3c062a3328e8692d9.jpg" group-title="英雄联盟;B站",LPL
-http://192.168.68.2:8765/allinone.php?biliid=6
+https://live.littlestrong.eu.org/live/bilibili/6
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/c757e4a0c96c4b3583e40cdb0451a1e1_middle.jpg" group-title="英雄联盟;斗鱼",LPL
-http://192.168.68.2:8765/allinone.php?douyuid=288016
+https://live.littlestrong.eu.org/live/douyu/288016
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/57/c520ca01e7a02975e7e5d96f432cff_180_135.jpg" group-title="英雄联盟;虎牙", Uzi
-http://192.168.68.2:8765/huya.php?id=100
+https://live.littlestrong.eu.org/live/huya/100
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836&467049" group-title="英雄联盟;虎牙", Zz1tai姿态
-http://192.168.68.2:8765/huya.php?id=333003
+https://live.littlestrong.eu.org/live/huya/333003
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/cb/9d859ba1a87431f0ec20f57f3ccfa4_180_135.jpg?1591180682&467049" group-title="英雄联盟;虎牙", kRYST4L
-http://192.168.68.2:8765/huya.php?id=222523
+https://live.littlestrong.eu.org/live/huya/222523
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1017/08/7b0012b378139f55b8c4675724653d_180_135.jpg?1625666609&467057" group-title="英雄联盟;虎牙", AmazingJ
-http://192.168.68.2:8765/huya.php?id=991108
+https://live.littlestrong.eu.org/live/huya/991108
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/fe/1a689ed11d9f778a6a1be6054052a9_180_135.jpg?1585724768&467057" group-title="英雄联盟;虎牙", Letme严君泽
-http://192.168.68.2:8765/huya.php?id=518518
+https://live.littlestrong.eu.org/live/huya/518518
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/df57d3efec57443994b960caec579364_middle.jpg" group-title="英雄联盟;斗鱼",金咕咕金咕咕doinb
-http://192.168.68.2:8765/allinone.php?douyuid=252140
+https://live.littlestrong.eu.org/live/douyu/252140
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/1a0fa314c0f44fc2aff1c14e3329b629_middle.jpg" group-title="英雄联盟;斗鱼",不2不叫周淑怡
-http://192.168.68.2:8765/allinone.php?douyuid=290935
+https://live.littlestrong.eu.org/live/douyu/290935
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/9dedfaba7f404f51b73916558bcd9c08_middle.jpg" group-title="英雄联盟;斗鱼",骆歆冲冲冲
-http://192.168.68.2:8765/allinone.php?douyuid=5189167
+https://live.littlestrong.eu.org/live/douyu/5189167
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/bc/7c79bcccb1260a89144f1839613afa_180_135.jpg?1673464155&467057" group-title="英雄联盟;虎牙", LPL副舞台
-http://192.168.68.2:8765/huya.php?id=660137
+https://live.littlestrong.eu.org/live/huya/660137
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/8a0da0973436f4a77f95ef1016e7223fd4255bbb.jpg" group-title="英雄联盟;B站",LPL副舞台
-http://192.168.68.2:8765/allinone.php?biliid=616
+https://live.littlestrong.eu.org/live/bilibili/616
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/0e/140cfd7cbaddc5db2c25a97e0aa83e_180_135.jpg?1610275378" group-title="英雄联盟;虎牙",LCK
-http://192.168.68.2:8765/huya.php?id=660001
+https://live.littlestrong.eu.org/live/huya/660001
